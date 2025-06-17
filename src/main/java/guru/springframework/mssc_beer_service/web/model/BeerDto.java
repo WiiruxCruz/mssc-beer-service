@@ -21,7 +21,7 @@ public class BeerDto {
 	
 	private String beerName;
 	
-	private BeerStyleEnum beerService;
+	private BeerStyleEnum beerStyle;
 	
 	private Long upc;
 	
